@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SportsStore\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\user\source\repos\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\user\source\repos\SportsStore\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\user\source\repos\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\user\source\repos\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\user\source\repos\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\user\source\repos\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\user\source\repos\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\user\source\repos\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\user\source\repos\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\user\source\repos\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\user\source\repos\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.genruntimeconfig.cache
